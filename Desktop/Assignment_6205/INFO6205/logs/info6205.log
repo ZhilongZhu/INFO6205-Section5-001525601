@@ -1,0 +1,168 @@
+2021-02-03 23:23:58 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-02-04 00:05:34 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 00:05:34 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 00:05:34 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 00:05:34 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 00:05:34 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 00:05:34 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 00:05:34 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 11:12:07 INFO  Benchmark_Timer - Begin run: testWaitPeriods with 2 runs
+2021-02-04 11:40:03 DEBUG Config - Config.get(helper, instrument) = true
+2021-02-04 11:40:03 DEBUG Config - Config.get(helper, seed) = 0
+2021-02-04 11:40:03 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-02-04 11:40:03 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-02-04 11:40:03 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-02-04 11:40:03 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-02-04 11:40:03 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-02-04 11:40:03 DEBUG Config - Config.get(helper, cutoff) = 
+2021-02-04 11:40:52 DEBUG Config - Config.get(helper, instrument) = true
+2021-02-04 11:40:52 DEBUG Config - Config.get(helper, seed) = 0
+2021-02-04 11:40:52 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-02-04 11:40:52 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-02-04 11:40:52 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-02-04 11:40:52 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-02-04 11:40:52 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-02-04 11:40:52 DEBUG Config - Config.get(helper, cutoff) = 
+2021-02-04 11:43:38 DEBUG Config - Config.get(helper, instrument) = true
+2021-02-04 11:43:38 DEBUG Config - Config.get(helper, seed) = 0
+2021-02-04 11:43:38 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-02-04 11:43:38 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-02-04 11:43:38 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-02-04 11:43:38 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-02-04 11:43:38 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-02-04 11:43:38 DEBUG Config - Config.get(helper, cutoff) = 
+2021-02-04 11:44:13 DEBUG Config - Config.get(helper, instrument) = true
+2021-02-04 11:44:13 DEBUG Config - Config.get(helper, seed) = 0
+2021-02-04 11:44:13 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-02-04 11:44:13 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-02-04 11:44:13 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-02-04 11:44:13 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-02-04 11:44:13 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-02-04 11:44:13 DEBUG Config - Config.get(helper, cutoff) = 
+2021-02-04 11:45:38 DEBUG Config - Config.get(helper, instrument) = true
+2021-02-04 11:45:38 DEBUG Config - Config.get(helper, seed) = 0
+2021-02-04 11:45:38 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-02-04 11:45:38 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-02-04 11:45:38 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-02-04 11:45:38 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-02-04 11:45:38 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-02-04 11:45:38 DEBUG Config - Config.get(helper, cutoff) = 
+2021-02-04 11:47:37 DEBUG Config - Config.get(helper, instrument) = true
+2021-02-04 11:47:37 DEBUG Config - Config.get(helper, seed) = 0
+2021-02-04 11:47:37 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-02-04 11:47:37 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-02-04 11:47:37 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-02-04 11:47:37 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-02-04 11:47:37 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-02-04 11:47:37 DEBUG Config - Config.get(helper, cutoff) = 
+2021-02-04 11:47:44 DEBUG Config - Config.get(helper, instrument) = true
+2021-02-04 11:47:44 DEBUG Config - Config.get(helper, seed) = 0
+2021-02-04 11:47:44 DEBUG Config - Config.get(instrumenting, copies) = true
+2021-02-04 11:47:44 DEBUG Config - Config.get(instrumenting, swaps) = true
+2021-02-04 11:47:44 DEBUG Config - Config.get(instrumenting, compares) = true
+2021-02-04 11:47:44 DEBUG Config - Config.get(instrumenting, inversions) = 1
+2021-02-04 11:47:44 DEBUG Config - Config.get(instrumenting, fixes) = true
+2021-02-04 11:47:44 DEBUG Config - Config.get(helper, cutoff) = 
+2021-02-04 12:07:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:07:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:07:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:07:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:07:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:07:07 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:07:15 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:25 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:26 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:26 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:26 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:26 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:27 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:24:27 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:03 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:03 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:03 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:03 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:03 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:03 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:04 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:05 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:27:06 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:21 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:21 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:21 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:21 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:21 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:22 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:23 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:24 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:56 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:56 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:56 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:56 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:57 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:57 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:58 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:59 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:59 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:59 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:59 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:28:59 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
+2021-02-04 12:29:00 INFO  Benchmark_Timer - Begin run: MeasureRuningTimes with 500 runs
