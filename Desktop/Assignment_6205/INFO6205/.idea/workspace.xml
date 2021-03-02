@@ -16,6 +16,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -51,9 +58,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="Application.UF_HWQUPC">
-    <configuration name="UF_HWQUPC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.union_find.UF_HWQUPC" />
+  <component name="RunManager" selected="Application.Benchmark_UF">
+    <configuration name="Benchmark_Timer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.util.Benchmark_Timer" />
+      <module name="INFO6205" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.coe.info6205.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Benchmark_UF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.union_find.Benchmark_UF" />
       <module name="INFO6205" />
       <extension name="coverage">
         <pattern>
@@ -65,7 +85,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BenchmarkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="INFO6205" />
       <extension name="coverage">
         <pattern>
@@ -74,7 +94,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="edu.neu.coe.info6205.util" />
-      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.util.TimerTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.util.BenchmarkTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +115,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UF_HWQU_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="INFO6205" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.neu.coe.info6205.union_find.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.neu.coe.info6205.union_find" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.union_find.UF_HWQU_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UF_HWQUPC" />
+        <item itemvalue="Application.Benchmark_UF" />
+        <item itemvalue="Application.Benchmark_Timer" />
+        <item itemvalue="JUnit.BenchmarkTest" />
+        <item itemvalue="JUnit.UF_HWQU_Test" />
         <item itemvalue="JUnit.UF_HWQUPC_Test" />
-        <item itemvalue="JUnit.TimerTest" />
       </list>
     </recent_temporary>
   </component>
