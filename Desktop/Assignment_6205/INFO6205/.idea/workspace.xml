@@ -58,7 +58,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="Application.Benchmark_UF">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.neu.coe.info6205.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RedBlackTreeTest">
     <configuration name="Benchmark_Timer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.util.Benchmark_Timer" />
       <module name="INFO6205" />
@@ -100,16 +105,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UF_HWQUPC_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RedBlackTreeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="INFO6205" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.neu.coe.info6205.union_find.*" />
+          <option name="PATTERN" value="edu.neu.coe.info6205.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="edu.neu.coe.info6205.union_find" />
-      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.union_find.UF_HWQUPC_Test" />
+      <option name="PACKAGE_NAME" value="edu.neu.coe.info6205.util" />
+      <option name="MAIN_CLASS_NAME" value="edu.neu.coe.info6205.util.RedBlackTreeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RedBlackTreeTest" />
         <item itemvalue="Application.Benchmark_UF" />
         <item itemvalue="Application.Benchmark_Timer" />
         <item itemvalue="JUnit.BenchmarkTest" />
         <item itemvalue="JUnit.UF_HWQU_Test" />
-        <item itemvalue="JUnit.UF_HWQUPC_Test" />
       </list>
     </recent_temporary>
   </component>
